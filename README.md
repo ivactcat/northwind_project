@@ -13,7 +13,13 @@ The project involves creating a series of SQL queries to extract key metrics and
 -	Seasonal trends and purchasing patterns over time.
   
 The queries developed help in understanding how the company is performing in terms of sales, product management, inventory, and customer service.
+# Tools and Technologies Used
 
+Database System: PostgreSQL
+
+Database Management Tool: DBeaver
+
+PostgreSQL was used as the primary database management system for its robustness and reliability in handling complex queries. DBeaver facilitated efficient database exploration, query execution, and data visualization.
 # STRUCTURE
 
 data
