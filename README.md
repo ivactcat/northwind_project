@@ -26,13 +26,13 @@ PostgreSQL was used as the primary database management system for its robustness
     data/: Contains data files related to the Northwind database.
           northwind/: ( containing the Northwind database.)
           
-    Consultations/: (SQL queries for various aspects of the business.)
-          sales_and_product.sql: (Queries focusing on sales and product performance metrics.)
-          billing_and_purchases.sql: (Queries for billing analysis and customer purchases.)
-          geography.sql: (Queries analyzing geographical data and locations.)
-          inventory.sql: (Queries to assess inventory management.)
-          return_employed.sql:( Queries to track employee-related sales and returns.)
-          sales.sql: (General sales analysis and performance.)
+    Consultations/ (SQL queries for various aspects of the business.)
+          sales_and_product.sql (Queries focusing on sales and product performance metrics.)
+          billing_and_purchases.sql (Queries for billing analysis and customer purchases.)
+          geography.sql (Queries analyzing geographical data and locations.)
+          inventory.sql (Queries to assess inventory management.)
+          return_employed.sql( Queries to track employee-related sales and returns.)
+          sales.sql (General sales analysis and performance.)
 # Setting Up the Project
 1. Database Setup
 Install PostgreSQL on your local machine or use a cloud-based PostgreSQL instance.
