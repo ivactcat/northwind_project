@@ -27,7 +27,7 @@ PostgreSQL was used as the primary database management system for its robustness
     
           northwind/: ( containing the Northwind database.)
           
-    Consultations/ (SQL queries for various aspects of the business.)
+    SQL Queries/ (SQL queries for various aspects of the business.)
     
           sales_and_product.sql (Queries focusing on sales and product performance metrics.)
           
