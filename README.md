@@ -31,13 +31,17 @@ PostgreSQL was used as the primary database management system for its robustness
     
           sales_and_product.sql (Queries focusing on sales and product performance metrics.)
           
-          billing_and_purchases.sql (Queries for billing analysis and customer purchases.)
+          billing times.sql (Queries for billing analysis and customer purchases.)
           
           geography.sql (Queries analyzing geographical data and locations.)
           
           inventory.sql (Queries to assess inventory management.)
           
           return_employed.sql( Queries to track employee-related sales and returns.)
+
+          Inactive customers.sql
+
+          Customers and purchases.sql
           
           sales.sql (General sales analysis and performance.)
           
